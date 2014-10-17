@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"table-footer-group"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"ta",
+				"table-column"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10029,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 3593,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index2.html",
+			"settings":
+			{
+				"buffer_size": 2296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 122998,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ACER/Desktop/ppshop/portfolio mpt/index-2",
+		"/C/Users/ACER/Desktop/to take/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/page--front.tpl.php",
+		"/C/wamp/www/drupal-7.26-3/sites/all/themes/bootstrap-business/template.php",
+		"/C/wamp/www/drupal-7.26-3/themes/bartik/template.php",
+		"/C/wamp/www/drupal-7.26-3/sites/all/themes/bootstrap-business/theme-settings.php",
+		"/C/wamp/www/drupal-7.26-3/sites/all/themes/bootstrap-business/page.tpl.php",
+		"/C/wamp/www/drupal-7.26-3/sites/all/themes/bootstrap-business/page--front.tpl.php",
+		"/C/Users/ACER/Desktop/bootstrap-business-7.x-1.0/bootstrap-business/page.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/bootstrap.info",
+		"/D/Frontiir/bootstrap-master (website)/bootstrap-3.0.0/bootstrap-3.0.0/examples/navbar-static-top/index.html",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-business/page--front.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/page.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/page--node--52.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/page--user--register.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/page--user--password.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/page--user.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/pager.func.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/html.tpl.php",
+		"/C/Users/ACER/Desktop/wamp/www/drupal-7.26/sites/all/themes/SEA GAMES 2013 Drupal/drupal/sites/all/themes/bootstrap/theme/system/page--front.tpl.php",
+		"/C/Users/ACER/Desktop/to take/residentail.html",
+		"/C/wamp/www/drupal-7.26-3/sites/all/themes/bootstrap-business/css/isp_style.css",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-business/bootstrap_business.info",
+		"/C/wamp/www/drupal-7.26/themes/bartik/templates/page.tpl.php",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-business/page.tpl.php",
+		"/C/wamp/www/drupal-7.26-3/sites/all/themes/bootstrap-business/bootstrap_business.info",
+		"/C/wamp/www/drupal-7.26-3/sites/all/themes/bootstrap-business/css/style.css",
+		"/C/wamp/www/drupal-7.26-2/sites/default/settings.php",
+		"/D/Frontiir/bootstrap-master (website)/bootstrap-3.0.0/bootstrap-3.0.0/examples/jumbotron/index.html",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business-isp/bootstrap/css/bootstrap.css",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business-isp/css/isp_style.css",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business-isp/page.tpl.php",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business-isp/bootstrap_business.info",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business-isp/page--front.tpl.php",
+		"/D/Frontiir/bootstrap-master (website)/bootstrap-3.0.0/bootstrap-3.0.0/examples/carousel/index.html",
+		"/C/Users/ACER/Desktop/test/bootstrap-business/page--front.tpl.php",
+		"/D/Frontiir/bootstrap-master (website)/bootstrap-3.0.0/bootstrap-3.0.0/examples/navbar-fixed-top/index.html",
+		"/C/Users/ACER/Desktop/test/bootstrap-business/page.tpl.php",
+		"/D/Frontiir/bootstrap-master (website)/bootstrap-3.0.0/bootstrap-3.0.0/examples/navbar-fixed-top/navbar-fixed-top.css",
+		"/C/wampold/www/drupal-7.26/themes/bartik/templates/page.tpl.php",
+		"/D/Frontiir/bootstrap-master (website)/bootstrap-3.0.0/bootstrap-3.0.0/examples/offcanvas/index.html",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business/page--front.tpl.php",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business/template.php",
+		"/C/wampold/www/drupal-7.26/themes/bartik/css/layout.css",
+		"/C/wampold/www/drupal-7.26/themes/bartik/css/print.css",
+		"/C/wampold/www/drupal-7.26/themes/bartik/css/style.css",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business/bootstrap_business.info",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business/page.tpl.php",
+		"/C/wampold/www/drupal-7.26/themes/bartik/css/layout-rtl.css",
+		"/C/wampold/www/drupal-7.26/themes/bartik/css/maintenance-page.css",
+		"/C/wampold/www/drupal-7.26/sites/all/themes/bootstrap-business/theme-settings.php",
+		"/C/Users/ACER/Desktop/GoogleNexusWebsiteMenu/GoogleNexusWebsiteMenu/index.html",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-business/css/mpt.css",
+		"/C/wamp/www/drupal-7.25/drupal-7.25/sites/all/themes/bootstrap-7.x-3.0/bootstrap/bootstrap.info",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-7.x-3.0/bootstrap/bootstrap.info",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-7.x-3.0/bootstrap/theme/system/page--front.tpl.php",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-business/bootstrap/css/mpt.css",
+		"/C/wamp/www/drupal-7.25/drupal-7.25/sites/all/themes/bootstrap-7.x-3.0/bootstrap/theme/system/page.tpl.php",
+		"/C/wamp/www/drupal-7.26/sites/all/themes/bootstrap-business/css/own/mpt.css",
+		"/C/Users/ACER/Desktop/testing.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"float",
+			"First",
+			"#010B08",
+			"directory",
+			"f7f7f7",
+			"333333",
+			"border: 0",
+			"span",
+			"label",
+			"clearfix",
+			"t1",
+			"max-width: 100%; display: block;",
+			"responsive",
+			"and",
+			"col-",
+			"@media",
+			"media",
+			"xs",
+			"pre-header",
+			"#header",
+			"#header_top_left",
+			"pre_header_first"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1669,
+								1604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 374.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69998,
+								70003
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 67550.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
