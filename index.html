@@ -160,17 +160,17 @@
 					<img src="img/heart.png" class="heart_img">
 					<h2 class="my_create_text text-center">Love to create</h2>
 				</div>
-				<div class="col-md-3 col-sm-3 col-xs-4 my_create_box">
+				<div class="col-md-3 col-sm-3 col-xs-6 my_create_box">
 					<div class="my_create_img"><img src="img/clean.png"></div>
 					<p class="text-center my_create_subtext">Fresh & Clean Design</p>
 				</div>
-				<div class="col-md-3 col-sm-3 col-xs-4 my_create_box">
+				<div class="col-md-3 col-sm-3 col-xs-6 my_create_box">
 					<div class="my_create_img"><img src="img/responsive.png"></div>
 					<p class="text-center my_create_subtext">Responsive Grid Layout</p>
 				</div>
-				<div class="col-md-3 col-sm-3 col-xs-4 my_create_box">
+				<div class="col-md-3 col-sm-3 col-xs-12 my_create_box">
 					<div class="my_create_img"><img src="img/mobile.png"></div>
-					<p class="text-center my_create_subtext">Mobile UI</p>
+					<p class="text-center my_create_subtext">Mobile UI Design</p>
 				</div>
 				 
 			</div>
@@ -396,28 +396,31 @@
 		<div class="container">
 			<div class="row">	 
 					<p class="contact_title">Keep in touch</p>
-					<div class="col-md-3">&nbsp;</div>
+					
+					<div class="col-md-3 hidden-xs">&nbsp;</div>
 								
-					<div class="col-md-2 col-sm-4 col-xs-4">
-						<a target="_blank" href="mailto:mayphyutun90@gmail.com">
+					<div class="col-md-2 col-sm-4 col-xs-6">						
 						<div class="social_mail social_icon middle">
-						<img src="img/gmail.png" class="img-responsive" alt="Mail Connect" title="Mail Connect" /></a>
+							<a target="_blank" href="mailto:mayphyutun90@gmail.com">
+							<img src="img/gmail.png" class="img-responsive" alt="Mail Connect" title="Mail Connect" /></a>
 						</div>
 					</div>
-					<div class="col-md-2 col-sm-4 col-xs-4">
+
+					<div class="col-md-2 col-sm-4 col-xs-6">
 						<a target="_blank" href="https://www.linkedin.com/in/mayphyutun">
-						<div class="social_linkedin social_icon middle">
-						<img src="img/linkedin.png" class="img-responsive" alt="Linkedin Connect" title="Linkedin Connect" /></a>
-						</div>
+							<div class="social_linkedin social_icon middle">
+								<img src="img/linkedin.png" class="img-responsive" alt="Linkedin Connect" title="Linkedin Connect" /></a>
+							</div>
 					</div>
-					<div class="col-md-2 col-sm-4 col-xs-4">
+
+					<div class="col-md-2 col-sm-4 col-xs-12">
 						<a target="_blank" href="https://www.facebook.com/canary.phyu">
 						<div class="social_facebook social_icon middle">
 						<img src="img/facebook.png" class="img-responsive" alt="Facebook Connect" title="Facebook Connect" /></a>
-						</div>
+					</div>
 
 					</div>
-					<div class="col-md-3">&nbsp;</div> 
+					<div class="col-md-3 hidden-xs">&nbsp;</div> 
 					
 			</div>
 		</div>
@@ -447,7 +450,7 @@
 		$('.social_circle').hover(function(){
 		    $(this).toggleClass('social_circle_hover');
 		});
-		 
+
 
 		//Navigation Bar 
 		$(window).bind('scroll', function() {
@@ -455,6 +458,7 @@
 				 if ($(window).scrollTop() > navHeight) {
 					 $('.navbar').addClass('navbar-fixed-top nav_portfolio_ease slideDown');
 					 $('.navbar').removeClass('hidden');
+		 
 			 
 				 }
 				 else {
@@ -465,7 +469,7 @@
 
 		// Scroll to the selected menu item on the page
 		$(function() {
-		    $('a[href=#aboutme],a[href=#project],a[href=#contact]').click(function() {
+		    $('a[href=#home],a[href=#aboutme],a[href=#project],a[href=#contact]').click(function() {
 		        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
 
 		            var target = $(this.hash);
@@ -474,7 +478,7 @@
 		                $('html,body').animate({
 		                    scrollTop: target.offset().top
 		                }, 1000);
-		                return false;
+		                return false; 
 		            }
 		        }
 		    });

@@ -148,7 +148,7 @@ a {outline: none;}
 
 /*Contact*/
 .contact_title {color:#FFF;text-align: center;font-family: 'Roboto', sans-serif; font-weight: 300; font-size: 38px;margin-top:50px;margin-bottom:64px;}
-.contact_section {background-color: #242426; height: 330px;}
+.contact_section {background-color: #242426; height:auto; padding-bottom: 90px;}
 .social_mail {border-radius:50%; border: 1px solid #E07F7D; width:100px; height:100px;}
 .social_linkedin {border-radius:50%; border: 1px solid #44B5ED; width:100px; height:100px;}
 .social_facebook {border-radius:50%; border: 1px solid #7B9FE5; width:100px; height:100px;}
@@ -167,5 +167,4 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=2, Direction=90, Color
 
 .social_circle {border-radius: 50%; width: 100px; height: 100px; border: 1px solid #BFBFBF; z-index: 3; position: absolute; opacity: 0;}
  
-
 
