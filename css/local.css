@@ -94,7 +94,7 @@ box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);}
 /*Mobile*/
 @media (max-width: 575.98px) {
 
-	.part-right-top {position: absolute;right:0; z-index: 1030;}
+	.part-right-top {position: absolute;right:0; z-index: 1030!important;}
 	.navbar-port.active li {border-bottom: 4px solid #427cc8; color: #427cc8; width:95px; }
 	ul.nav-port li>a {color: #2472cc!important;}
 	.navbar-port {padding: 12px 12px 9px 0px;}
