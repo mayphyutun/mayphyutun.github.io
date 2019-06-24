@@ -1,0 +1,127 @@
+/*Menu*/
+.c1 {background-color: red;}
+.c2 {background-color: green;}
+
+html, body {position: relative; padding:0; margin: 0; height: 100%;}
+ 
+.navbar-port {background-color: rgba(254,254,254,0.7); padding:0px;}
+.navbar-port.active {box-shadow: 0 0 10px rgba(0,0,0,0.3); }
+ul.nav-port li>a {color: #c96158!important; padding:20px 20px;}
+.navbar-port .active {background-color: #427cc8; color: #fff!important; transition: background-color .7s;}
+.navbar-nav li {padding:0px 20px;}
+.navbar-nav li a {padding:7px 20px;}
+.navbarport-toggler { border:1px solid #c96158;}
+
+/*Navigation Toggle*/
+.navbar-toggler-icon {color: #fff;}
+.fa-bars {color: #1e86de;}
+.part-right {position: absolute;right:15px; z-index: 1031;}
+.title {color: #2472cc; margin-top:60px; font-size: 4rem; font-weight: bold;}
+ p.title:after {width: 50px; background-color: #59a2e0; content: ""; height:5px; position: absolute; left:18px; top:146px; }
+.sub-title {color:#505050; margin-top:20px;}
+.d-arrow {font-size: 30px; bottom:80px; color:#c96158; position: absolute; }
+
+/*Content*/
+.wrapper-w {min-height: 100%;}
+.wrapper-container {padding-top:40px;}
+.wrapper-inner {padding-top:120px;}
+
+/*About Me*/
+.about {margin-bottom: 130px;}
+#aboutme {padding-top: 100px; margin-top: -100px;}
+.about-bg {margin-top:-40px;}
+.about-txt {color: #fff; text-shadow: 2px 2px 4px #242424; word-wrap: break-word; position: absolute; top: 21%; left: 24%; width:55%; }
+.w-title {color: #ff7469;}
+.w-title-content {color: #59a2e0; font-size: 22px; font-weight: bolder; margin-top: -10px;}
+.work {padding:0px 40px;}
+.work .progress {height: 0.5rem; background-color: #bddaf3;}
+.work .bg-success {background-color: #59a2e0!important;}
+.work hr {margin: 20px 0px;}
+
+
+/*Projects*/
+.project, .web {margin-bottom: 50px;}
+#projects {padding-top: 150px; margin-top: -150px;} 
+.myquote { display:block; margin-bottom: 30px; background: linear-gradient(to right, #ff7469 0%, #057fe7 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;}
+.pro-title {color: #59a2e0;}
+.ph-bg {background-image: url(../images/splash.png); background-repeat: no-repeat; background-position: 13% bottom;}
+.app-des {padding: 38px 50px 0px 11px;}
+.app-des p:nth-child(2) {color:#444342;}
+.app-des p:nth-child(3) {color:#4b4b4b;}
+.p-s {position: absolute; z-index: -2; left:-65px; bottom: -34px;}
+.carousel-indicators li {background-color:#484747;}
+.carousel-item {margin-bottom: 50px;}
+.fa-chevron-left, .fa-chevron-right {color: #494949; margin-top: -106px;}
+
+
+.l-bg {background-image: url(../images/l-splash.png); background-repeat: no-repeat; background-position: 65% bottom;}
+
+
+.l-bg img {margin-top: 70px; margin-bottom: 60px;}
+.f-s {position: absolute; z-index: -2; left:-24px; bottom: -29px;}
+.f-hr {margin:40px 0px;}
+.f-hr-inner {position: fixed; padding-bottom: 1rem!important;}
+
+
+ /*Project details*/
+#mc {padding-top: 100px; margin-top: -100px; -webkit-transition: all .8s ease-in-out; -moz-transition: all .8s ease-in-out; -o-transition: all .8s ease-in-out; transition: all .8s ease-in-out;}
+
+ /*Footer*/
+ .footer > ul li a.nav-link {padding-top:0px;}
+ .cpy {font-size: 0.78rem; color:#575757;}
+
+
+/*Helper classes*/
+.mb-6 {margin-bottom: 4rem!important;}
+.display-5 {font-size: 2.5rem; font-weight: 300; line-height: 1.2;}
+.shadow {-webkit-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);
+-moz-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);
+box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);}
+.wrapper-w a {text-decoration: none;}
+.border-grey {border-color:#c8c8c8;}
+
+
+/*Scroll btn*/
+#toTop {display: inline-block; margin: 30px; position: fixed; bottom: 10px; right: 10px; z-index: 1000; transition: background-color .3s, 
+    opacity .5s, visibility .5s; opacity: 0; color: #727272;}
+.show {opacity: 100 !important;}
+#toTop:hover {cursor: pointer; color: #333;}
+#toTop:active {color: #555;}
+#toTop span {color: #fff; margin-top: 14px;}
+
+
+
+/*Mobile*/
+@media (max-width: 575.98px) {
+
+	.part-right {position: absolute;right:0; z-index: 1030;}
+	ul.nav-port li>a {color: #2472cc!important;}
+	.navbar-port {padding: 12px 12px 9px 0px;}
+	.wrapper-container {padding-top:56px;}
+	.wrapper-inner {padding-top:90px;}
+	.title {font-size: 3.2rem; }
+	p.title:after {top: 132px;}
+	.about-bg img {max-width: 103%;}
+	.part-right img {width:100px;}
+	.about-txt {font-size: 0.73rem; top: 19%; width:63%; }
+	.work hr {margin: 10px 0px;}
+	.app-des {padding: 20px;}
+	.pro-tile {margin-bottom: 30px;}
+	.web {margin-bottom: 35px;}
+	.project {margin-bottom: 0px;}
+	.p-s {left:0;}
+	.l-bg {background-position: 33% bottom;}
+	.f-hr {margin:20px 0px;}
+	.footer p {text-align: center;}
+	.d-arrow span {margin-top:40px;}
+	.l-bg img {margin-top: 35px;}
+
+
+}
+
+
+  
+
+
+
+
