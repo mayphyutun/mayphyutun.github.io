@@ -50,6 +50,7 @@ ul.nav-port li>a {color: #c96158!important; padding:20px 20px;}
 .p-s {position: absolute; z-index: -2; left:-65px; bottom: -34px;}
 .carousel-indicators li {background-color:#484747;}
 .carousel-item {margin-bottom: 50px;}
+.carousel-control-prev, .carousel-control-next {z-index: -1;}
 .fa-chevron-left, .fa-chevron-right {color: #494949; margin-top: -106px;}
 
 
@@ -94,6 +95,7 @@ box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);}
 @media (max-width: 575.98px) {
 
 	.part-right {position: absolute;right:0; z-index: 1030;}
+	.navbar-port.active {border-bottom: 4px solid #427cc8; color: #427cc8; width:95px; }
 	ul.nav-port li>a {color: #2472cc!important;}
 	.navbar-port {padding: 12px 12px 9px 0px;}
 	.wrapper-container {padding-top:56px;}
