@@ -50,8 +50,8 @@ ul.nav-port li>a {color: #c96158!important; padding:20px 20px;}
 .p-s {position: absolute; z-index: -2; left:-65px; bottom: -34px;}
 .carousel-indicators li {background-color:#484747;}
 .carousel-item {margin-bottom: 50px;}
-.project .carousel-control-prev, .carousel-control-next {top:200px; height:100px;}
-.web .carousel-control-prev, .carousel-control-next {top:236px; height:134px;}
+.project .carousel-control-prev, .project .carousel-control-next {top:200px; height:100px;}
+.web .carousel-control-prev, .web .carousel-control-next {top:236px; height:134px;}
 .fa-chevron-left, .fa-chevron-right {color: #494949; margin-top: -106px;}
 
 
