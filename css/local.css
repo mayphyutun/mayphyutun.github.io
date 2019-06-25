@@ -3,12 +3,11 @@ html, body {position: relative; padding:0; margin: 0; height: 100%;}
 
 /*Menu*/ 
 .navbar-port {background-color: rgba(254,254,254,0.7); padding:0px;}
-.navbar-port.active {box-shadow: 0 0 10px rgba(0,0,0,0.3); }
-ul.nav-port li>a {color: #c96158!important; padding:20px 20px;}
-.navbar-port .active {background-color: #427cc8; color: #fff!important; transition: background-color .7s;}
-.navbar-nav li {padding:0px 20px;}
+.navbar-port .active {color:#c96158; transition: background-color .7s; box-shadow: 0 0 10px rgba(0,0,0,0.3);}
+.navbar-nav li {padding:0px 20px; margin-left: 10px; border-bottom: 1px dashed #427cc8;}
 .navbar-nav li a {padding:7px 20px;}
 .navbarport-toggler { border:1px solid #c96158;}
+.navbar-nav li>a {color: #c96158!important; padding:20px 20px;}
 
 /*Navigation Toggle*/
 .navbar-toggler-icon {color: #fff;}
@@ -96,6 +95,7 @@ box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);}
 @media (max-width: 575.98px) {
 
 	.part-right-top {position: absolute;right:0; z-index: 1030!important;}
+	.navbar-port .active {color:#c96158; transition: background-color .7s;}
 	ul.nav-port li>a {color: #2472cc!important;}
 	.navbar-port {padding: 12px 12px 9px 0px;}
 	.wrapper-container {padding-top:56px;}
