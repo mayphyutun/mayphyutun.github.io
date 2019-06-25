@@ -8,8 +8,6 @@ jQuery(document).ready(function() {
     var scroll = $(window).scrollTop();
     if (scroll > 0) {
         $(".navbar-port").addClass("active");
-
-        navbar-collapse collapse show
          
     } else {
         $(".navbar-port").removeClass("active");
