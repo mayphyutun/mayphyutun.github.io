@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
   
   
   if ($("button .navbar-toggler").attr("aria-expanded") == "true") 
-    $("button .navbar-toggler").toggleClass('shadow');
+    $("button .navbar-toggler").toggleClass('shadowall');
 
 
   var btn = $('#toTop');
