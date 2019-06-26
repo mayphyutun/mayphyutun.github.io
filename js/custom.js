@@ -4,7 +4,7 @@ jQuery(document).ready(function() {
   
   if ($(".navbar-toggler").attr("aria-expanded") == "true") 
   {
-    $("button .navbar-toggler").addClass('shadowall');
+    $(".navbar-toggler").addClass('shadowall');
   }
 
 
@@ -15,9 +15,7 @@ jQuery(document).ready(function() {
     var scroll = $(window).scrollTop();
     if (scroll > 0) {
         $(".navbar-port").addClass("active");
-        $(".navbar-port").css("box-shadow","none");
-        
-         
+
     } else {
         $(".navbar-port").removeClass("active");
             
