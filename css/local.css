@@ -103,9 +103,9 @@ box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);}
 	.navbar-nav li {padding:0px 20px; margin-left: 10px; border-bottom: 1px dashed #427cc8;}
 	.navbar-nav li:last-child {border-bottom: none;}
 	.shadowall {box-shadow: 0 0 10px rgba(0,0,0,0.3);}
-	.navbar-port.active[aria-expanded="true"] {transition: background-color .7s; box-shadow: 0 0 10px rgba(0,0,0,0.3);}
+	.navbar-port {padding: 12px 12px 9px 0px; transition: background-color .7s; box-shadow: 0 0 10px rgba(0,0,0,0.3);}
 	/*a.btn.btn-primary{background: red !important;}*/
-	.navbar-port {padding: 12px 12px 9px 0px;}
+	 
 	.navbar-toggler:hover, .navbar-toggler:focus {outline: none;}
 	.wrapper-container {padding-top:56px;}
 	.wrapper-inner {padding-top:90px;}
