@@ -15,6 +15,8 @@ jQuery(document).ready(function() {
     var scroll = $(window).scrollTop();
     if (scroll > 0) {
         $(".navbar-port").addClass("active");
+        $(".navbar-port").css("box-shadow","none");
+        
          
     } else {
         $(".navbar-port").removeClass("active");
