@@ -2,8 +2,10 @@
 jQuery(document).ready(function() {
   
   
-  if ($("button .navbar-toggler").attr("aria-expanded") == "true") 
-    $("button .navbar-toggler").toggleClass('shadowall');
+  if ($(".navbar-toggler").attr("aria-expanded") == "true") 
+  {
+    $("button .navbar-toggler").addClass('shadowall');
+  }
 
 
   var btn = $('#toTop');
