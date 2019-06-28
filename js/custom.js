@@ -8,7 +8,7 @@ if ($('.navbar-toggler').attr('aria-expanded') === "true")
     alert("Page is loaded");
 }
 $('#navbarCollapse').collapse({
-  toggle: false
+  toggle: false;
   alert("hello");
 })
 
