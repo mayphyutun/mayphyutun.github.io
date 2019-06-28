@@ -4,7 +4,7 @@ jQuery(document).ready(function() {
   
   if ($(".navbar-toggler").attr("aria-expanded") == "true") 
   {
-    $(".navbar-toggler").addClass('shadowall');
+    alert("hi");
   }
 
 
