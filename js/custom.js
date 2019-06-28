@@ -1,11 +1,18 @@
 
-jQuery(document).ready(function() {
-  
-  if ($('.navbar-toggler').attr('aria-expanded') === "true")
+if ($('.navbar-toggler').attr('aria-expanded') === "true")
   {
-    alert("hi");
+    $(".navbar-port").addClass("active");
   }
 
+  function test() {
+    alert("Page is loaded");
+}
+
+
+
+jQuery(document).ready(function() {
+  
+   
   var btn = $('#toTop');
 
   $(window).scroll(function() {
