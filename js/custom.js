@@ -2,7 +2,7 @@
 jQuery(document).ready(function() {
   
   
-  if ($(".navbar-toggler").attr("aria-expanded") == "true") 
+  if($(".navbar-toggler").attr("aria-expanded") == "true") 
   {
     alert("hi");
   }
