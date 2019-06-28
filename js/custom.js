@@ -1,17 +1,4 @@
 
-if ($('.navbar-toggler').attr('aria-expanded') === "true")
-  {
-    $(".navbar-port").addClass("active");
-  }
-
-  function test() {
-    alert("Page is loaded");
-}
-$('#navbarCollapse').collapse({
-  
-  alert("hello");
-})
-
 
 jQuery(document).ready(function() {
   
