@@ -7,7 +7,10 @@ if ($('.navbar-toggler').attr('aria-expanded') === "true")
   function test() {
     alert("Page is loaded");
 }
-
+$('#navbarCollapse').collapse({
+  toggle: false
+  alert("hello");
+})
 
 
 jQuery(document).ready(function() {
