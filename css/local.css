@@ -96,7 +96,7 @@ box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);}
 /*Mobile*/
 @media (max-width: 575.98px) {
 
-	.part-right-top {position: absolute;right:0; z-index: 1030!important;}
+	.part-right-top {position: absolute;right:0; z-index:0!important;}
 	.navbar-port .active {color:#c96158; transition: background-color .7s;}
 	.navbar-nav li>a.active {color:#c96158!important; background-color: transparent;}
 	.navbar-nav li>a {color:#427cc8;}
