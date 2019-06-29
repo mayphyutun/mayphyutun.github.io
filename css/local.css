@@ -110,7 +110,7 @@ box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.4);}
 	.wrapper-inner {padding-top:90px;}
 	.title {font-size: 3.2rem; }
 	p.title:after {top: 132px;}
-	.about-bg img {max-width: 103%;}
+	.about-bg img {max-width: 110%; height: 398px; position: relative; left: -14px;}
 	.part-right img {width:100px;}
 	.about-txt {font-size: 0.73rem; top: 19%; width:63%; }
 	.work hr {margin: 10px 0px;}
